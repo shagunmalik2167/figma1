@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 80" fill="none">
+  <defs>
+    <linearGradient id="brand4Grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFB400"/>
+      <stop offset="100%" stop-color="#FF5722"/>
+    </linearGradient>
+  </defs>
+  <!-- Stylized 3 -->
+  <text x="50" y="44" font-family="'Poppins', sans-serif" font-size="44" font-weight="900" fill="url(#brand4Grad)" text-anchor="middle">3</text>
+  <text x="50" y="66" font-family="'Poppins', sans-serif" font-size="8.5" font-weight="700" fill="#FF5722" text-anchor="middle" letter-spacing="1.2">CONCEPT 3</text>
+</svg>
